@@ -39,7 +39,7 @@ FINOS Common Cloud Controls communications are conducted through the ccc-partici
 
 FINOS Common Cloud Controls is maintained and run through GitHub. Simply [Raise a GitHub Issue](https://github.com/finos/common-cloud-controls/issues/new/choose) to ask questions or make suggestions. 
 
-## FINOS CCC Steering Committeee Members
+## FINOS CCC Steering Committee Members
 
 The CCC Steering Committee is the governing body of the CCC project, providing decision-making and oversight pertaining to the CCC project bylaws, sub-organizations, and financial planning. The Steering Committee also defines the project values and structure. [Documented here](docs/governance/steering/charter.md).
 
