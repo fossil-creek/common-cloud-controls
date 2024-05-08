@@ -64,7 +64,7 @@ The membership structure of this working group:
 ### Meeting Cadence
 
 * This working group will use the mail group <ccc-duplication-reduction@lists.finos.org> for regular communications.
-* A member of this working group should represent this working group on any calls scheduled by the [SC] for participation by the full CCC project community.
+* A group member should represent this [WG] on any calls scheduled by the [SC] for participation by the full CCC project community.
 
 ### Changes
 
