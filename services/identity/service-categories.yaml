@@ -19,3 +19,14 @@ service_categories:
           - Azure Role-Based Access Control (RBAC)
       - Google Cloud:
           - Google Cloud Identity and Access Management (IAM)
+  - id: CCC.AD
+    title: Active Directory Services
+    description: |
+      Service is designed to integrate on-premise Active Directory services with cloud-based directory services enabling access to AD-integrated applications in the cloud and integrating access directory services in the cloud and on-premise.
+    examples:
+      - AWS:
+          - AWS Directory Service
+      - Azure:
+          - Azure Entra ID
+      - Google Cloud:
+          - tbd
